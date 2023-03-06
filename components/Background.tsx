@@ -36,6 +36,25 @@ export default function Background() {
 	smLeft='sm:left-[calc(50%-30rem)]'
 	rotate='rotate-[200deg]'
       />
+      <BackgroundBlob
+	top='top-[calc(100%+60rem)]'
+	smTop='sm:top-[calc(100%+43rem)]'
+	left='left-[calc(50%+3rem)]'
+	smLeft='sm:left-[calc(50%+36rem)]'
+      />
+      <BackgroundBlob
+	top='top-[calc(100%+95rem)]'
+	smTop='sm:top-[calc(100%+77rem)]'
+	left='left-[calc(50%-8rem)]'
+	smLeft='sm:left-[calc(50%-30rem)]'
+	rotate='rotate-[200deg]'
+      />
+      <BackgroundBlob
+	top='top-[calc(100%+103rem)]'
+	smTop='sm:top-[calc(100%+85rem)]'
+	left='left-[calc(50%+3rem)]'
+	smLeft='sm:left-[calc(50%+36rem)]'
+      />
 
     </>
   );
