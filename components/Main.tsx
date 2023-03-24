@@ -14,7 +14,8 @@ import Footer from '../components/Footer';
 
 export default function Main() {
   return (
-    <div className="overflow-x-hidden isolate bg-white dark:bg-gray-700">
+    <div className="overflow-x-hidden isolate bg-white">
+    {/* dark:bg-gray-700*/}
       <Background/>
       <Nav/>
       <Hero/>
