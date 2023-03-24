@@ -8,8 +8,8 @@ export default function FmIcon() {
       <path d="M168.229 103.2V155.771L141.943 129.486L168.229 103.2Z" fill="#5271B4"/>
       <path d="M115.657 103.2L89.3714 129.486L63.0857 155.771V50.6286L89.3714 76.9143L115.657 103.2Z" fill="#BB4B96"/>
       <defs>
-	<filter id="filter0_d_8_35" x="13.4071" y="0" width="207.186" height="210.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-	<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+	<filter id="filter0_d_8_35" x="13.4071" y="0" width="207.186" height="210.4" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
+	<feFlood floodOpacity="0" result="BackgroundImageFix"/>
 	<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 	<feOffset dx="2" dy="2"/>
 	<feGaussianBlur stdDeviation="2"/>
